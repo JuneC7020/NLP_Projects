@@ -1,0 +1,10 @@
+https://kavita-ganesan.com/comparison-between-cbow-skipgram-subword/
+https://towardsdatascience.com/nlp-101-word2vec-skip-gram-and-cbow-93512ee24314
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+https://medium.com/analytics-vidhya/word2vec-skipgram-explained-f7b3af90f02e
+
+
+
+https://www.davidsbatista.net/blog/2018/03/31/SentenceClassificationConvNets/
+https://lena-voita.github.io/nlp_course/models/convolutional.html
+https://towardsdatascience.com/understanding-how-convolutional-neural-network-cnn-perform-text-classification-with-word-d2ee64b9dd0b
